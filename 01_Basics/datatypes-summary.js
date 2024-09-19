@@ -6,7 +6,7 @@
 
 //7 : String, Number , Boolean , null , undefined , symbol , BigInt
 
-//Refence(non-primitives) 
+//Refence(non-primitives) - call by reference, that is changes are made in the original
 
 //Arrays , Objects and functions
 
@@ -20,3 +20,9 @@ let obj = {
 const myFunction = function(){
     console.log("Hello World!!")
 }
+
+/* ------------------------------------------------------------------------------*/
+
+//MEMORY- of two types
+//Stack(primitive)
+//Heap(Non-Primitive)
