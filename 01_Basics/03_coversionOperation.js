@@ -20,3 +20,31 @@ console.log(booleanIsLoggedIn)
 // "" (empty space) => false
 // "hitesh" => true
 
+
+
+/*  OPERATIONS  */
+
+// console.log(2+2) add
+// console.log(2-2) subtract
+// console.log(2*2) multiply
+// console.log(2/2) divide
+// console.log(2**2) power
+// console.log(2%2) reminder
+
+let str1 = "hello"
+let str2 = "  hitesh"
+let str3 = str1+str2
+// console.log(str3) hello hitesh
+
+console.log("1" + 2)     // o/p- 12
+console.log(1 + "2")     // o/p- 12
+console.log("1" + 2 + 2) // o/p- 122
+console.log(1 + 2 + "2") // o/p- 32
+
+console.log(true) //output- true
+console.log(+true) //output- 1
+console.log("") //output- 0
+
+
+
+
