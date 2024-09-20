@@ -9,7 +9,7 @@ console.log(balance) // [Number: 100]
 
  balance.toString() // This converts a number into string
  balance.toString().length // Once we convert it to String, all properties / methods of Strings are now open to us, such as length
- balance.toFixed(2) // Used to reduce or round of to specific decimal values
+ balance.toFixed(2) // Used to reduce or round of to specific decimal values / ouput- 100.00
     // - Use Cases 
         // a. After calculation of GST
         // b. In Ecommerce website
