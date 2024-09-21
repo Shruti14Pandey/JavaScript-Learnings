@@ -1,2 +1,2 @@
 # JavaScript-Learnings
-A practice repository for leaning purposes
+A practice repository for learning purposes
