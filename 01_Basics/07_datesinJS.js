@@ -24,4 +24,4 @@ let mycreatedDate = new Date("01-14-2023"); //output: 01/14/2023, 12:00:00A.M.
 
 let myTimeStamp = Date.now(); //this will give the timestamp (as in a lap time in races)
 
-console.log(Math.floor(DAte.now()/1000)); //this will convert it into seconds from milisec
+console.log(Math.floor(Date.now()/1000)); //this will convert it into seconds from milisec
