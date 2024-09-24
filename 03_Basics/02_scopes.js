@@ -52,7 +52,9 @@ function addone(num){
 
 
 
-addTwo(5)
+addTwo(5) //cannot access addTwo before declaration because it is stored in a variable
 const addTwo = function(num){
     return num + 2
 }
+
+// Remember!! the global scope is different when run in console from the one run in node environment.
