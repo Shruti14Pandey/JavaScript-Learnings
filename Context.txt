@@ -1,0 +1,11 @@
+JavaScript is single-threaded , i.e, one execution takes place at a time. 
+
+JavaScript execution context-
+ - Global execution context(this)
+ - Function execution context
+ - Eval execution context
+
+
+Phases of execution:
+ ->Memory Creation Phase
+ ->Execution Phase
