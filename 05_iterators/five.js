@@ -1,6 +1,6 @@
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
-// coding.forEach( function (val){
+// coding.forEach( function (val){ //for each asks for a callback function- a function without name
 //     console.log(val);
 // } )
 
@@ -18,7 +18,7 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 //     console.log(item, index, arr);
 // } )
 
-const myCoding = [
+const myCoding = [                            //this concept is very useful in databases
     {
         languageName: "javascript",
         languageFileName: "js"
