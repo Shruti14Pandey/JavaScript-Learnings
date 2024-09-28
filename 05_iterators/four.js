@@ -24,3 +24,7 @@ for (const key in programming) {
 // for (const key in map) {
 //     console.log(key);
 // }
+
+// all in all,
+// for objects - for in loop
+// for Array - for of
