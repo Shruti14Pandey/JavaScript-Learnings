@@ -10,9 +10,13 @@
 
 const myNums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-// const newNums = myNums.filter( (num) => {
+// const newNums = myNums.filter( (num) => {   //filter also asls for callbacks
 //     return num > 4
 // } )
+
+
+// for each does not return the values, however filter returns 
+
 
 // const newNums = []
 
