@@ -91,6 +91,8 @@ consumePromiseFive()
 
 //getAllUsers()
 
+// fetch is anetwork based request 
+
 fetch('https://api.github.com/users/hiteshchoudhary')
 .then((response) => {
     return response.json()
